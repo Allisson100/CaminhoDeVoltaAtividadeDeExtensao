@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97586645382",
+    "project_id": "caminho-de-volta",
+    "storage_bucket": "caminho-de-volta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97586645382:android:0cf1d666813b49482cc407",
+        "android_client_info": {
+          "package_name": "com.allisson.caminhodevolta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqNoiVZhHcXW1anJl6bYGw1SjixNWMig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
